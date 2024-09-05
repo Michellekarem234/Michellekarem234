@@ -1,14 +1,15 @@
 ### bem vindos ao meu perfil 👋
 
-Meu nome e michelle karem 
+Meu nome e michelle Gomez
 
--Estou estudando na Alura
+- Estou estudando na Alura
 
- -Estou me desenvolviendo na linguagem JavaScript
+ - Estou me desenvolviendo na linguagem JavaScript
 
--Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
+- Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
-### Se você quizer entrar em contato comigo
+### Você pode entrar em contato comigo
 
 michellekarem9@mail.com
 
+@karem2808
